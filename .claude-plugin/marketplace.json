@@ -1,0 +1,14 @@
+{
+  "name": "paper-search",
+  "owner": {
+    "name": "YK Sugi"
+  },
+  "plugins": [
+    {
+      "name": "paper-search",
+      "source": "./",
+      "description": "Search academic papers via OpenAlex — find papers by keyword, look up details by DOI, with pagination and sorting",
+      "version": "0.1.0"
+    }
+  ]
+}

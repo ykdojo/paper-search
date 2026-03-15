@@ -1,0 +1,11 @@
+{
+  "name": "paper-search",
+  "description": "Search academic papers via OpenAlex — find papers by keyword, look up details by DOI, with pagination and sorting",
+  "version": "0.1.0",
+  "author": {
+    "name": "YK Sugi"
+  },
+  "repository": "https://github.com/delfinadap/paper-search",
+  "license": "MIT",
+  "keywords": ["academic", "papers", "research", "openalex", "citations", "science"]
+}
