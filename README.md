@@ -44,18 +44,5 @@ scripts/paper.sh W2097529540
 
 Uses [OpenAlex](https://openalex.org/) — free, open, no API key required. 250M+ works indexed.
 
-## Structure
+Initially introduced in [45 Claude Code Tips](https://github.com/ykdojo/claude-code-tips) (Tip 27).
 
-```
-.claude-plugin/
-  plugin.json
-  marketplace.json
-scripts/
-  search.sh          # keyword search
-  paper.sh           # paper detail lookup
-skills/
-  paper-search/
-    SKILL.md          # skill manifest for Claude Code
-CLAUDE.md
-README.md
-```
