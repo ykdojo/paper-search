@@ -5,7 +5,7 @@ A Claude Code plugin and skill for searching academic papers via the [OpenAlex A
 ## Install as Claude Code Plugin
 
 ```bash
-claude plugin marketplace add delfinadap/paper-search
+claude plugin marketplace add ykdojo/paper-search
 claude plugin install paper-search@paper-search
 ```
 

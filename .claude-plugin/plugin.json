@@ -5,7 +5,7 @@
   "author": {
     "name": "YK Sugi"
   },
-  "repository": "https://github.com/delfinadap/paper-search",
+  "repository": "https://github.com/ykdojo/paper-search",
   "license": "MIT",
   "keywords": ["academic", "papers", "research", "openalex", "citations", "science"]
 }
