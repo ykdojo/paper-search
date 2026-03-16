@@ -5,8 +5,8 @@
 | Repo | Stars | Type | Status | Link |
 |------|-------|------|--------|------|
 | BehiSecc/awesome-claude-skills | 7.5K | PR #123 | Open | https://github.com/BehiSecc/awesome-claude-skills/pull/123 |
-| hesreallyhim/awesome-claude-code | 28.4K | Issue | Pending | |
-| ComposioHQ/awesome-claude-skills | 44.4K | PR | Pending | |
+| hesreallyhim/awesome-claude-code | 28.4K | Issue | Skipped - issues restricted to collaborators | |
+| ComposioHQ/awesome-claude-skills | 44.4K | PR #396 | Open | https://github.com/ComposioHQ/awesome-claude-skills/pull/396 |
 
 ## Tier 2
 
